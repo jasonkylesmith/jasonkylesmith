@@ -3,7 +3,7 @@
 💻 Software Engineer for [Moonello](https://moonello.com)  
 
 ### 🔥 Check out what I'm working on!  
-* A new JasonKyleSmith.com website using Gatsby, Contentful, and Netlify ([On GitHub](https://github.com/jasonkylesmith/jasonkylesmith.com) - [Preview](jasonkylesmith-preview.netlify.app))
+* A new JasonKyleSmith.com website using Gatsby, Contentful, and Netlify ([On GitHub](https://github.com/jasonkylesmith/jasonkylesmith.com) - [Preview](http://jasonkylesmith-preview.netlify.app))
 * The Very Nerdy Clothing Company Website ([On GitHub](https://github.com/jasonkylesmith/verynerdy-product-website-v2) - [DEMO](https://jasonkylesmith.github.io/verynerdy-product-website-v2/) - [NuCamp Honors Submission Video](https://youtu.be/C9fxidJQpSw)) ⬅⬅
 * The Color Over Time App ([EXPO](https://expo.io/@jasonkylesmith/color-over-time)) ⬅⬅
 
