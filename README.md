@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Jason!  
 👨‍🎓 Graduate of the Full-Stack [NuCamp Bootcamp](https://nucamp.co)  
-💻 Software Engineer for [Moonello](https://moonello.com)  
+💻 Software Developer currently Open for Work [LinkedIn](https://www.linkedin.com/in/jasonkylesmith/)
+
+- React, Next.js, CSS, TailwindCSS, Node.js/Express, AWS (Amplify, Cognito, S3, ElasticBeanstalk), Netlify, Storyblok, React Native, Expo
 
 <!---
 ### 🔥 Check out what I'm working on!  
