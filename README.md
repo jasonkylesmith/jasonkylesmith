@@ -4,7 +4,39 @@
 
 - React, Next.js, CSS, TailwindCSS, Node.js/Express, AWS (Amplify, Cognito, S3, ElasticBeanstalk), Netlify, Storyblok, React Native, Expo
 
+### LinkedIn Articles
+<p>
+  <a href="https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc">
+    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />    
+  </a>
+</p>
+
+
 <!---
+Structure for Clickable Images
+<p>
+  <a href="[https://my-portfolio-website.com](https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc)">
+    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="[https://my-portfolio-website.com](https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc)">
+    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="[https://my-portfolio-website.com](https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc)">
+    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />
+  </a>
+  <br />
+  <br />
+  
+  <a href="[https://my-portfolio-website.com](https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc)">
+    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />
+  </a>
+</p>
+--->
+
+<!---
+https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc
 ### 🔥 Check out what I'm working on!  
 * A new JasonKyleSmith.com website using Gatsby, Contentful, and Netlify ([On GitHub](https://github.com/jasonkylesmith/jasonkylesmith.com) - [Preview](http://preview.jasonkylesmith.com))
 * The Very Nerdy Clothing Company Website ([On GitHub](https://github.com/jasonkylesmith/verynerdy-product-website-v2) - [DEMO](https://jasonkylesmith.github.io/verynerdy-product-website-v2/) - [NuCamp Honors Submission Video](https://youtu.be/C9fxidJQpSw))
