@@ -5,7 +5,7 @@
 - React, Next.js, CSS, TailwindCSS, Node.js/Express, AWS (Amplify, Cognito, S3, ElasticBeanstalk), Netlify, Storyblok, React Native, Expo
 
 ### Current Public Projects
-:iphone: [Wayfarer's Gauntley](https://github.com/jasonkylesmith/wayfarers-gauntlet) - A React Native application / "Vibe Coding" experiment based off the Scoundrel card game.
+:iphone: [Wayfarer's Gauntlet](https://github.com/jasonkylesmith/wayfarers-gauntlet) - A React Native application / "Vibe Coding" experiment based off the Scoundrel card game.
 
 ### LinkedIn Articles
 <p>
