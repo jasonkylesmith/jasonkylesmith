@@ -4,6 +4,9 @@
 
 - React, Next.js, CSS, TailwindCSS, Node.js/Express, AWS (Amplify, Cognito, S3, ElasticBeanstalk), Netlify, Storyblok, React Native, Expo
 
+### Current Public Projects
+:iphone: [Wayfarer's Gauntley](https://github.com/jasonkylesmith/wayfarers-gauntlet) - A React Native application based off the Scoundrel card game
+
 ### LinkedIn Articles
 <p>
   <a href="https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc">
