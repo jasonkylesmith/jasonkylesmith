@@ -16,19 +16,19 @@
 
 <p>
   <a href="https://www.linkedin.com/pulse/my-vibe-coding-experiment-ai-replace-us-jason-smith-uwulc/">
-    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+    <img src="My-Vibe-Coding-Experiment-by-Jason-Kyle-Smith.jpg" alt="My Vibe Coding Experiment" width="300" />    
   </a>
 </p>
 
 <p>
   <a href="https://www.linkedin.com/pulse/squarespace-died-tomorrow-would-you-still-have-business-jason-smith-0nwuc/">
-    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+    <img src="If-Squarespace-Died-Tomorrow-Would-You-Still-Have-A-Business.jpg" alt="If Squarespace Died Tomorrow Would You Still Have A Business" width="300" />    
   </a>
 </p>
 
 <p>
   <a href="https://www.linkedin.com/pulse/your-copy-says-human-do-photos-say-robot-jason-smith-ekrgc/">
-    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+    <img src="Website-Photos-Title.jpg" alt="Your Copy Says Human, Do Your Photos Say Robot?" width="300" />    
   </a>
 </p>
 
