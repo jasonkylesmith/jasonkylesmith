@@ -10,7 +10,25 @@
 ### LinkedIn Articles
 <p>
   <a href="https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc">
-    <img src="sleep-well-stack.jpg" alt="The "Sleep Well At Night" Stack" width="300" />    
+    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/pulse/my-vibe-coding-experiment-ai-replace-us-jason-smith-uwulc/">
+    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/pulse/squarespace-died-tomorrow-would-you-still-have-business-jason-smith-0nwuc/">
+    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/pulse/your-copy-says-human-do-photos-say-robot-jason-smith-ekrgc/">
+    <img src="sleep-well-stack.jpg" alt="The 'Sleep Well At Night' Stack" width="300" />    
   </a>
 </p>
 
