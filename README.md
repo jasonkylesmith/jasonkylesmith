@@ -7,6 +7,7 @@
 ### Current Public Projects
 :iphone: [Wayfarer's Gauntlet](https://github.com/jasonkylesmith/wayfarers-gauntlet) - A React Native application / "Vibe Coding" experiment based off the Scoundrel card game.
 
+<!---
 ### LinkedIn Articles
 <p>
   <a href="https://www.linkedin.com/pulse/sleep-well-night-stack-my-recommended-alternative-wordpress-smith-skrbc">
@@ -30,7 +31,7 @@
   <a href="https://www.linkedin.com/pulse/your-copy-says-human-do-photos-say-robot-jason-smith-ekrgc/">
     <img src="Website-Photos-Title.jpg" alt="Your Copy Says Human, Do Your Photos Say Robot?" width="300" />    
   </a>
-</p>
+</p> --->
 
 
 <!---
